@@ -4,8 +4,18 @@
 <br><b> Candidate: Nare, Yongil, Alvina, Sunny, Hoseock, Kyungtae (VNH(volunteered new host) who participate at least 1 time as host will be added to this candidate of Host in next season)</b>
 <br> With these brilliant talent, we will start the new season which will be more sustainable, predictable and accountable from the guest and participants
 
-### Final Host for this season and order for the Talk Matters
+### Host for this season and order for the Talk Matters
 * Yongil, Sunny, Hoseock, BigEye
+
+
+**Schedule of Talk Matters Season 4**
+
+| No. | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Date | 2021 01 07 | 2021 01 14 | 2021 01 21 |2021 01 28 | 2021 02 04 | 2021 02 11 | 2021 02 18 | 2021 02 25 | 2021 03 04 | 2021 03 11 |
+| Host | Hoseock| TBD | TBD| TBD | TBD| TBD | TBD| TBD | TBD | TBD
+| Agenda | [link](./Season4_1st.md) | TBD | TBD| TBD | TBD| TBD | TBD| TBD | TBD | TBD
+
 
 ### Meeting Agenda
 * [Season4 Preparation Meeting 1](./Preparation%20Meeting%201%202020%2012%2017.md)<2020-12-17>
