@@ -15,7 +15,7 @@ This is a project to find the meaning of the life while learning the world toget
 * Everyone can practice what is "proactive response" and "how to give constructive feedback" to each other. 
 
 ## Seasons
-* [Season 4](https://github.com/seock04/Uncertainty-Handler/wiki/Talk-matters-Season4) - Sustainable and Expandable Education Platform for all Leaders <2020-12-17> ~ Until the end
+* [Season 4](./Season4/README.md) - Sustainable and Expandable Education Platform for all Leaders <2020-12-17> ~ Until the end
 * [Season 3](https://github.com/seock04/Uncertainty-Handler/wiki/Talk-matters-Season3) - Open role Talk show type meeting <2020-10-08> ~ <2020-12-10>
 * [Season 2](https://github.com/seock04/Uncertainty-Handler/wiki/Talk-matters-Season2) - Talk show type meeting hosted by Hoseock <2020-07-14> ~ <2020-09-24>
 * [Season 1](https://github.com/seock04/Uncertainty-Handler/wiki/Pathway-Level-4---Manage-Online-Meetings---Talk-matters-Season-1) - Online Discussion Meeting <2020-03-17> ~ <2020-07-07>
