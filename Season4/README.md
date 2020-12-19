@@ -17,7 +17,7 @@
 | Agenda | [link](./Season4_1st.md) | TBD | TBD| TBD | TBD| TBD | TBD| TBD | TBD | TBD
 
 
-### Meeting Agenda
+### Extra Agenda
 * [Season4 Preparation Meeting 1](./Preparation%20Meeting%201%202020%2012%2017.md)<2020-12-17>
 
 ### Goal
