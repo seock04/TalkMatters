@@ -22,6 +22,6 @@ This is a project to find the meaning of the life while learning the world toget
 
 
 ## Format
-* [Original format of show introduction]()
+* [Original format of show introduction](https://github.com/seock04/TalkMatters/blob/main/TalkMatters_Original_Format.md)
 
 
