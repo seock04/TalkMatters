@@ -12,9 +12,9 @@
 
 | No. | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Date | 2021 01 07 | 2021 01 14 | 2021 01 21 |2021 01 28 | 2021 02 04 | 2021 02 11 | 2021 02 18 | 2021 02 25 | 2021 03 04 | 2021 03 11 |
-| Host | Hoseock| TBD | TBD| TBD | TBD| Hoseock | TBD| TBD | TBD | TBD
-| Agenda | [link](./Season4_1st.md) | TBD | TBD| TBD | TBD| [link](./Season4_6th.md) | TBD| TBD | TBD | TBD
+| Date | 21 01 07 | 21 01 14 | 21 01 21 |21 01 28 | 21 02 04 | 21 02 11 | 21 02 18 | 21 02 25 | 21 03 04 | 21 03 11 |
+| Host | Hoseock| TBD | Sunny| TBD | TBD| Hoseock | TBD| Sunny | TBD | TBD
+| Agenda | [link](./Season4_1st.md) | TBD | [link](./Season4_3st.md) | TBD | TBD| [link](./Season4_6th.md) | TBD| [link](./Season4_8st.md) | TBD | TBD
 
 
 ### Extra Agenda
