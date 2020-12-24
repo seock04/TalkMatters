@@ -1,5 +1,5 @@
 ## What is Original format of Talk Matter shows?
-
+> This is original format of Talkmatters since 2020 June. We learn lesseons from the news reporting of where we live and around the globe. We also have time for the featured topic where we can exchange the insight from daily life between people in form of discussion, debate or presentation.
 
 ## We have 4 major sessions
   * News Briefing, Domestic issues - 16 min 
