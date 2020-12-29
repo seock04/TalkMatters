@@ -1,6 +1,13 @@
 ## What is Original format of Talk Matter shows?
 > This is original format of Talkmatters since 2020 June. We learn lesseons from the news reporting of where we live and around the globe. We also have time for the featured topic where we can exchange the insight from daily life between people in form of discussion, debate or presentation.
 
+## Purpose of this show
+* The reporter learns what skill they need to summarize the news and find the story behind it and share it as presenter.
+* The host learns how to conduct talk show and discussion meeting with various different reporters and guests.
+* The Show Evaluator will observe how the show is prepared and conducted, and give constructive feedback to Host, Reporter, Featured Topic Master as well as the overall show.
+* The participants and guests become more familiar to the English vocabulary, jargon or expression that are fresh and new in many different category 
+* Everyone can practice what is "proactive response" and "how to give constructive feedback" to each other. 
+
 ## We have 4 major sessions
   * News Briefing, Domestic issues - 16 min 
   * World News (US, Europe, Asia, etc) - 16 min
