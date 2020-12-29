@@ -1,4 +1,4 @@
-## What we do in Talk Matter Pannel Discussion?
+## What we do in Talk Matter Open Discussion?
 * Panel discussion related with current issue released in News (not just one news article but deal with various aspect of the issues on the topic)
 
 ### Role & Responsibility
@@ -7,8 +7,8 @@
   * make sub-group of Pros and Cons randomly)
   * managing speech time for the panel discussion
 * Participants
-  * The participants (members and guests) join the panel discussion without preparation
-  * Share their ideas and reasons why they support or not the issues.
+  * The participants (members and guests) join the Open discussion without preparation
+  * Share their ideas and reasons why they "support" or "not support" the issues.
 
 ### Expected effect
 * Have enough time to discuss between participants
@@ -16,7 +16,7 @@
 
 ### Agenda Template
 
-**Talk Matters - Pannel Discussion**
+**Talk Matters - Open Discussion**
 
 | Time (PM      |min | Task                                                           | Description(Role Taker)| 
 | ---           | --- | ---                                                           | --- |
