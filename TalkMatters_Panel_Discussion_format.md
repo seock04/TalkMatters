@@ -18,7 +18,8 @@
 
 **Talk Matters - Pannel Discussion**
 
-| Time (PM      |min | Task                                                          | Description(Role Taker)| 
+| Time (PM      |min | Task                                                           | Description(Role Taker)| 
+| ---           | --- | ---                                                           | --- |
 | 10:00 ~ 10:05 | 5  | Greeting members and guest                                     | Host |
 | 10:05 ~ 10:10 | 5  | Opening <br>Introduce the topic                                | Host  |
 | 10:10 ~ 10:25 | 15 | **Preparation session per group** <br> Pros vs Cons            | Sub-group <br>(Zoom master) |
