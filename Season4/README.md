@@ -1,8 +1,6 @@
 
 ### Sustainable and Expandable Education Platform for all Leaders 
-<br> This time we have candidates of Host from the previous Season who tried Host at least one time.
-<br><b> Candidate: Nare, Yongil, Alvina, Sunny, Hoseock, Kyungtae (VNH(volunteered new host) who participate at least 1 time as host will be added to this candidate of Host in next season)</b>
-<br> With these brilliant talent, we will start the new season which will be more sustainable, predictable and accountable from the guest and participants
+<br> With these brilliant talent of hosts, we will start the new season which will be more sustainable, predictable and accountable from the guest and participants
 
 ### Host for this season and order for the Talk Matters
 * Yongil, Sunny, Hoseock, BigEye
