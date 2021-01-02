@@ -1,6 +1,8 @@
 # TalkMatters
 This is a project to find the meaning of the life while learning the world together with people.
 
+![picture 1](images/3ebf1a5adc2dba04cad5874da10da6fe82429739d159f753082665832c512dcd.png)  
+
 
 > **We talk about the world, local, people, and life for the meaning of life**
 
