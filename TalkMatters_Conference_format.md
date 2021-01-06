@@ -27,7 +27,7 @@
 | ---           | --- | ---                                                           | --- |
 | 10:00 ~ 10:05 | 5  | Greeting members and guest                                     | Host |
 | 10:05 ~ 10:10 | 5  | Opening <br>Introduce the topic                                | Host  |
-| 10:10 ~ 10:25 | 15 | **Prepared speaking**       <br> Pros vs Cons            | Speakers |
+| 10:10 ~ 10:25 | 15 | **Prepared speaches**                                          | Speakers |
 | 10:25 ~ 10:45 | 20 | Open discussion with audiences                                 | All <p> 1:00/1:30/2:00 per speaker <br> (Zoom master) |
 | 10:45 ~ 10:50 | 5  | Summarize the Comments from guests <br>                        | Host |
 | 10:50 ~ 10:55 | 5  | Evaluation Session                                             | Evaluator |
