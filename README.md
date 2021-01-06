@@ -18,6 +18,7 @@ This is a project to find the meaning of the life while learning the world toget
 
 ## Format
 * [Original format of show introduction](https://github.com/seock04/TalkMatters/blob/main/TalkMatters_Original_Format.md)
-* [Open Discussion type of show introduction](./TalkMatters_Panel_Discussion_format.md)
+* [Open Discussion type of show introduction](./TalkMatters_Open_Discussion_format.md)
+* [Conference type of Pannel discussion introduction](./TalkMatters_Panel_Discussion_format.md)
 
 
