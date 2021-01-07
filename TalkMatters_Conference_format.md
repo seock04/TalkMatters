@@ -5,33 +5,33 @@
 
 ### Role & Responsibility
 * Host
-  * The Host picks and prepares the topic, recruit appropriate speakers at least 2 weeks before.
-  * Ths host has to make a prepared questions also to hold the open discuss session.
-  * Introducing Panel for the topic and facilitate the discussion.
-  * managing speech time for the panel and open the topic to audience later for the further discussion.
+  * Choose topics and recruit appropriate speakers at least 2 weeks before.
+  * Prepare questions in advance to hold the open discuss session.
+  * Introduce speakers for the topic and facilitate the discussion.
+  * Manage speech time for speakers and open the topic to audience later for the further discussion.
 * Speakers
-  * Invited 2~3 persons who will show their own opinion or experience about the selected topic.
-* Participants(Audience)
-  * The participants (members and guests) join the Open discussion after the speakerss speech.
-  * Share their ideas and reasons why they "support" or "not support" the issues.
+  * Present their own opinion or experience about the selected topic.
+  * Answer to 2 kinds of questions. One is that the host asked in advance and the other is audience asks for.
+* Participants (Audience)
+  * Join the open discussion after the speakers' speech.
 
 ### Expected effect
-* Make some collective intelligence and sharing private experience with participants.
-* Let's explore the little knowledge around us.
+* Make some collective intelligence and share private experience with participants.
+* Explore the little knowledge around us.
 
 ### Agenda Template
 
 **Talk Matters - Conference type**
 
-| Time (PM      |min | Task                                                           | Description(Role Taker)| 
+| Time (PM)     |min | Task                                                           | Description (Role Taker)| 
 | ---           | --- | ---                                                           | --- |
 | 10:00 ~ 10:05 | 5  | Greeting members and guest                                     | Host |
 | 10:05 ~ 10:10 | 5  | Opening <br>Introduce the topic                                | Host  |
 | 10:10 ~ 10:25 | 15 | **Prepared speeches**                                          | Speakers |
-| 10:25 ~ 10:45 | 20 | Open discussion with audiences                                 | All <p> 1:00/1:30/2:00 per speaker <br> (Zoom master) |
+| 10:25 ~ 10:45 | 20 | Open discussion with audiences                                 | All <p> 2:00 per question |
 | 10:45 ~ 10:50 | 5  | Summarize the Comments from guests <br>                        | Host |
 | 10:50 ~ 10:55 | 5  | Evaluation Session                                             | Evaluator |
-| 10:55 ~ 11:00 | 5  | closing                                                        | Host |
+| 10:55 ~ 11:00 | 5  | Closing                                                        | Host |
 
  
 
