@@ -3,7 +3,7 @@
 ### Jan. 21 on Thursday 10 PM
 
 * Host: Sunny
-* Topic: [Work at Home Offline vs Online](https://drive.google.com/file/d/1FP6RmlQE_19j8nzuNI_-qpknVV62tD9R/view?usp=sharing)
+* Topic: [Work at Home Offline vs Online](https://drive.google.com/file/d/1VpcVKgdSQXpYVsnjKuiUl1eScLTVgqAX/view?usp=sharing)
 * Agenda - https://github.com/seock04/TalkMatters/blob/main/Season4/Season4_3rd.md
 
 ### What we do in Talk Matter Open Discussion?
