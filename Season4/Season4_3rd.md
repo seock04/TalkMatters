@@ -1,9 +1,29 @@
 # Talk Matter Season 4, 3rd Meeting - Open Discussion
 
+[Talk matters - Season 4] 3rd Meeting Announcement 
+
+Jan. 21 on Thursday 10 PM
+
 * Host: Sunny
-* Zoom master: TBD
-* Evaluator: TBD
-* Topic: [Work at Home Offline vs Online](https://drive.google.com/file/d/1FP6RmlQE_19j8nzuNI_-qpknVV62tD9R/view?usp=sharing)
+* Topic: Work at Home Offline vs Online
+* Agenda - https://github.com/seock04/TalkMatters/blob/main/Season4/Season4_3rd.md
+
+### What we do in Talk Matter Open Discussion?
+> Open discussion on current issue released in News (not just one news article but deal with various aspect of the issues on the topic) Role & Responsibility
+
+### Host
+* The Host picks and prepares the topic in advance
+* make sub-group of Pros and Cons randomly)
+* managing speech time for the Group discussion and Debate
+
+### Participants
+* The participants (members and guests) join the Open discussion without preparation
+* Share their ideas and reasons why they "support" or "not support" the issues.
+
+### Expected effect
+* Have enough time to discuss between participants
+* Participants could enhance the prompt speech and practice debate skills with logical reasons to support their own opinion(stance).
+
 
 | Time (PM      |min | Task                                                           | Description(Role Taker)| 
 | ---           | --- | ---                                                           | --- |
