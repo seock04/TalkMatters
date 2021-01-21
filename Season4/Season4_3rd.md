@@ -1,11 +1,9 @@
-# Talk Matter Season 4, 3rd Meeting - Open Discussion
+# Talk Matter Season 4, 3rd Meeting Announcement
 
-[Talk matters - Season 4] 3rd Meeting Announcement 
-
-Jan. 21 on Thursday 10 PM
+### Jan. 21 on Thursday 10 PM
 
 * Host: Sunny
-* Topic: Work at Home Offline vs Online
+* Topic: [Work at Home Offline vs Online](https://drive.google.com/file/d/1FP6RmlQE_19j8nzuNI_-qpknVV62tD9R/view?usp=sharing)
 * Agenda - https://github.com/seock04/TalkMatters/blob/main/Season4/Season4_3rd.md
 
 ### What we do in Talk Matter Open Discussion?
