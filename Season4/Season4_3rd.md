@@ -1,9 +1,9 @@
 # Talk Matter Season 4, 3rd Meeting - Open Discussion
 
-* Host: 
-* Zoom master:
-* Evaluator:
-* Topic: 
+* Host: Sunny
+* Zoom master: TBD
+* Evaluator: TBD
+* Topic: Work at Home: Offline vs Online
 
 | Time (PM      |min | Task                                                           | Description(Role Taker)| 
 | ---           | --- | ---                                                           | --- |
