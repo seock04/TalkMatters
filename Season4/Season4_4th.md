@@ -1,5 +1,5 @@
 ## [Conference Subject] 5 principles learning any language in six months
-> This conference is to find the best principles for learning English. 'How to learn any language in 6 months' is on the TOP 10 all time TEDx Talks worldwide with over 19 MILLION views and counting! We'll review and discuss 5 principles which are suggested by Chris Lonsdale, a New Zealand psychologist, linguist and educator.
+> This conference is to find the best learning English principles for us. 'How to learn any language in 6 months' is on the TOP 10 all time TEDx Talks worldwide with over 19 MILLION views and counting! We'll review and discuss 5 principles which are suggested by Chris Lonsdale, a New Zealand psychologist, linguist and educator.
 * Host: Yong-il Lee
 ### 5 Principles of 'How to learn any language in 6 months'
 * Focus on language content that relevant to you.
