@@ -4,14 +4,14 @@
 * (Short Video) https://www.youtube.com/watch?v=0faCtv1ommU&t=1s (6:33, English and Korean subtitles)
 * (Original Video) https://www.youtube.com/watch?v=d0yGdNEWdn0 (18:26, English )
 ### 5 Principles of 'How to learn any language in 6 months'
-* Focus on language content that relevant to you.
+* Focus on language content that is relevant to you.
 * Use your new language as a tool to communicate from day 1.
 * When you first understand the message you will unconsciously acquire the language.
-* Physiological training.
+* Do physiological training.
 * Psycho-physiological state matters.
 
 ## Invited Speeches
-> The presenters of this session will be invited among us to have various experiences in studying English. Speakers can also come from outside. If you know a good speaker, you can recommend it in advance. Depending on the situation, it can be replaced by a good lecture video or a recorded video of a speaker.
+> The presenters of this session will be invited among us to share various experiences in studying English. Speakers can also come from outside. If you know a good speaker, you can recommend he or she in advance. Depending on the situation, the speech can be replaced by a good lecture video or a recorded video of a speaker.
 * 1st Speaker: Hoseock Choi
   * Hoseok is the Area Director of Toastmaster D34. He has many language experiences since he was an university student.
   * [Speech Subject] What was the best experience to learn English and his viewpoint of the 5 principles.
@@ -23,7 +23,7 @@
   * [Speech Subject] How she have learn English effectively after finishing Korean middle / high school English curriculum.
 
 ## Open discussion with audiences
-> There would be prapared questions to speakers. One speakers would like to answer each quesition in 2 minutes. But there is no limitation for this session. Every participants can ask any question promptly and anyone can answer that. We'll make our own best principles while talking to each other.
+> There would be prapared questions to speakers. One speaker would like to answer each question in 2 minutes. But there is no limitation for this session. Every participant can ask any question promptly and anyone can answer that. We'll make our own best principles while talking to each other.
 ### Prepared question list (on going)
 * Do you think speaking in english at home could help study english?
 * Do you have any experience that made you change your perception for studying english? Who was helpful when you study english?
