@@ -12,10 +12,15 @@
 
 ## Invited Speeches
 > The presenters of this session will be invited among us to have various experiences in studying English. Speakers can also come from outside. If you know a good speaker, you can recommend it in advance. Depending on the situation, it can be replaced by a good lecture video or a recorded video of a speaker.
-* 1st Speaker: TBD
-* 2nd Speaker: TBD
-* 3rd Speaker: TBD
-
+* 1st Speaker: Hoseock Choi
+** Hoseok is the Area Director of Toastmaster D34. He has many language experiences since he was an university student.
+** [Speech Subject] What was the best experience to learn English and his viewpoint of the 5 principles.
+* 2nd Speaker: Youngman Park
+** Youngman was the previous president of Samsung One Toastmaster. He has been leading an English book reading club since last December.
+** [Speech Subject] Could the 5 principles be applicable to his English reading club.
+* 3rd Speaker: Nare Ha
+** Nare is the current president of Samsung One Toasmaster. She have participated and known many other Toastmaster clubs' activities since last year.
+** [Speech Subject] How she have learn English effectively after finishing Korean middle / high school English curriculum.
 
 ## Open discussion with audiences
 > There would be prapared questions to speakers. One speakers would like to answer each quesition in 2 minutes. But there is no limitation for this session. Every participants can ask any question promptly and anyone can answer that. We'll make our own best principles while talking to each other.
