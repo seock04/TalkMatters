@@ -34,4 +34,4 @@
 * Can you recommend any english drama that is good to study english?
 * You may have studied english for more than 20 years. Which method was the most ineffective when you studied english?
 * There are many people study English abroad. Do you have any friends who studied English abroad? Do you think their english skills improved or not?
-* According to Principle 5, we need to feel relaxed when we learn english. But most of the people study english despite busy schedule. If we are stressed, then can't we learn english efficiently?
+* According to the 5th principle, we need to feel relaxed when we learn english. But most of the people study english despite busy schedule. If we are stressed, then can't we learn english efficiently?
