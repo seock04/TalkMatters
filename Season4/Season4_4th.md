@@ -1,8 +1,8 @@
 ## [Conference Topic] 5 principles learning English in six months
 > This conference is to find the best learning English principles for us. 'How to learn any language in 6 months' is on the TOP 10 all time TEDx Talks worldwide with over 19 MILLION views and counting! We'll review and discuss 5 principles which are suggested by Chris Lonsdale, a New Zealand psychologist, linguist and educator.
 * Host: Yong-il Lee
-* (Short Video) https://www.youtube.com/watch?v=0faCtv1ommU&t=1s (6:33, English and Korean subtitles)
-* (Original Video) https://www.youtube.com/watch?v=d0yGdNEWdn0 (18:26, English )
+* (Short-edited Video) https://www.youtube.com/watch?v=0faCtv1ommU&t=1s (6:33, English and Korean subtitles)
+* (Original Video) https://www.youtube.com/watch?v=d0yGdNEWdn0 (18:26, English subtitles)
 ### 5 Principles of 'How to learn any language in 6 months'
 * Focus on language content that is relevant to you.
 * Use your new language as a tool to communicate from day 1.
