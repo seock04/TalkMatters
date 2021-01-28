@@ -31,7 +31,6 @@
 * The tuition for english kindergarten is very expensive. Regardless of the expensive fee, do you want to let your child study english in english kindergarten? Do you think this method is effective for children to study english?
 * I feel bored while watching english drama because I cannot understand it entirely. Can you recommend any good method to study english with drama for me?
 * Do you think studying english with news is effective?
-* Can you recommend any english drama that is good to study english?
 * You may have studied english for more than 20 years. Which method was the most ineffective when you studied english?
 * There are many people study English abroad. Do you have any friends who studied English abroad? Do you think their english skills improved or not?
 * According to the 5th principle, we need to feel relaxed when we learn english. But most of the people study english despite busy schedule. If we are stressed, then can't we learn english efficiently?
