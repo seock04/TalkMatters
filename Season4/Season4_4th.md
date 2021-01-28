@@ -28,7 +28,7 @@
 * Do you think speaking in english at home could help study english?
 * Do you have any experience that made you change your perception for studying english? Who was helpful when you study english?
 * What do you think of english class in your middle and high school? How do you want to change english study method if you go back to the past?
-* The tuition for english kindergarten if very expensive. Regardless of the expensive fee, do you want to let your child study english in english kindergarten? Do you think this method is effective for children to study english?
+* The tuition for english kindergarten is very expensive. Regardless of the expensive fee, do you want to let your child study english in english kindergarten? Do you think this method is effective for children to study english?
 * I feel bored while watching english drama because I cannot understand it entirely. Can you recommend any good method to study english with drama for me?
 * Do you think studying english with news is effective?
 * Can you recommend any english drama that is good to study english?
