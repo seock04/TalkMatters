@@ -6,7 +6,7 @@
 ### 5 Principles of 'How to learn any language in 6 months'
 * Focus on language content that is relevant to you.
 * Use your new language as a tool to communicate from day 1.
-* When you first understand the message you will unconsciously acquire the language.
+* When you first understand the message, you will unconsciously acquire the language.
 * Do physiological training.
 * Psycho-physiological state matters.
 
@@ -20,7 +20,7 @@
   * [Speech Subject] Could the 5 principles be applicable to his English reading club.
 * 3rd Speaker: Nare Ha
   * Nare is the current president of Samsung One Toasmaster. She has participated and known many other Toastmaster clubs' activities since last year.
-  * [Speech Subject] How has she learn English effectively after finishing Korean middle / high school English curriculum.
+  * [Speech Subject] How has she learned English effectively after finishing Korean middle / high school English curriculum.
 
 ## Open discussion with audiences
 > There would be prapared questions to speakers. One speaker would like to answer each question in 2 minutes. But there is no limitation for this session. Every participant can ask any question promptly and anyone can answer that. We'll make our own best principles while talking to each other.
