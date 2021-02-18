@@ -1,5 +1,6 @@
-# Talk matters 18th Feb. 10PM
+# Talk matters Season4 6th Meeting Agenda 
 
+### Date & Time: 18th Feb. 10PM
 
 ### Host - Hoseock
 ### India News Briefing - Dev(20 min)
