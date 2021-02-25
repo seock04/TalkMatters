@@ -16,7 +16,10 @@ https://www.rappler.com/entertainment/celebrities/jennie-gdragon-dating-korean-m
 * Here's all you need to know about France's controversial separatism law - https://www.euronews.com/2021/02/16/here-s-what-you-need-to-know-about-france-s-controversial-separatism-law
 
 ### Featured Topic - Hoseock (23 min)
-* When you are over 40, what's more important? stay in the job and go higher? or learn something completely new that can be useful when I retire? 
+* What will be the social impact when the issues Texas happen in Korea Suwon? Possibility that unexpected event to happen like abnormal climate are now increasing. 
+How can we wisely prepare aginst this uncertainty?
+
+* There are pros and cons : if Muslims want to live in France they need to accept its own culture. VS Religion need to be respected for no reason.
   
 
 
