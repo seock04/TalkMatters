@@ -15,8 +15,8 @@ https://www.rappler.com/entertainment/celebrities/jennie-gdragon-dating-korean-m
 
 * Here's all you need to know about France's controversial separatism law - https://www.euronews.com/2021/02/16/here-s-what-you-need-to-know-about-france-s-controversial-separatism-law
 
-### Featured Topic - TBD (23 min)
-*  
+### Featured Topic - Hoseock (23 min)
+* When you are over 40, what's more important? stay in the job and go higher? or learn something completely new that can be useful when I retire? 
   
 
 
