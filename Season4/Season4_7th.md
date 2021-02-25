@@ -20,4 +20,4 @@ https://www.rappler.com/entertainment/celebrities/jennie-gdragon-dating-korean-m
   
 
 
-### Evaluation Session - TBD (5 min)
+### Evaluation Session (5 min)
