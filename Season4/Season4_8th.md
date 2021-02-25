@@ -1,18 +1,30 @@
-# Talk Matter Season 4, 8thd Meeting - Open Discussion
+# Talk Matter Season 4, 8thd Meeting Agenda
 
-* Host: 
-* Zoom master:
-* Evaluator:
-* Topic: 
+### Host - Sunny 
 
-| Time (PM      |min | Task                                                           | Description(Role Taker)| 
-| ---           | --- | ---                                                           | --- |
-| 10:00 ~ 10:05 | 5  | Greeting members and guest                                     | Host |
-| 10:05 ~ 10:10 | 5  | Opening <br>Introduce the topic                                | Host  |
-| 10:10 ~ 10:25 | 15 | **Preparation session per group** <br> Pros vs Cons            | Sub-group <br>(Zoom master) |
-| 10:25 ~ 10:50 | 25 | Pros vs Cons Group Debate                                      | All <p> 1:00/1:30/2:00 per speaker <br> Vote for best speaker<br> (Zoom master) |
-| 10:50 ~ 10:55 | 5  | Evaluation Session                                             | Evaluator |
-| 10:55 ~ 11:00 | 5  | Announcing best speaker <br> Comments from guests <br> Closing | Host |
+
+### News Briefing, Domestic issue - Jinyong (16 min)
+
+* Title - link
+
+* Title - link
+
+
+
+### World News - Yongil (16 min)
+
+* Title - link
+
+* Title - link
+
+
+### Featured Topic -  Hoseock (23 min)
+
+* TBD 
+
+
+
+### Evaluation Session (5 min)
 
 
 
