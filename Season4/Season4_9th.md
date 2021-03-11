@@ -1,4 +1,4 @@
-## [Conference Topic] 5 principles learning English in six months
+## [Conference Topic] TED English
 > This conference is to invite best speackers from TED video virtually. We'll share the speakers story and try to imitate their speaking. Pronouncing a script and using a sentence expression by our own mouth will be very helpful for learning English. If we can imitate the speakers through practice several times, we can be a great speakers like them also.
 * Host: Yong-il Lee
 
